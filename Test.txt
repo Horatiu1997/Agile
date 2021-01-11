@@ -1,1 +1,17 @@
-bla blsdaldjsiopfjpsd
+Quiz Scrum_17_11_20 (Agile Software Development)
+
+1.Which one of the following is not a Scrum role  : Product Manager
+2.When should Increments be shipped : After each Sprint
+3.The Sprint Backlog would not change after the Sprint Planning. : False
+4.The Product Owner determines the number of items that should be selected for each Sprint. : False
+5.How many hours per day should a Development Team member work? : At a sustainable pace
+6.Which is NOT a Development Team responsibility : Breaking down Product Backlog items into smaller items
+7.What do burn-down charts track : Remaining work across time
+8.When should a Sprint Goal be created? : In the SPRINT PLANNING meeting
+9.Who estimates the work during the Sprint? : The Development Team
+10.Who adds new work to the Sprint Backlog during the Sprint? : The Development Team
+11.What should be done between a Sprint Retrospective and the next Sprint Planning? : Nothing; there’s no time between the two
+12.Items at the bottom of the Product Backlog are usually larger than those on the top. : True
+13.Agile Software Development is based on : Both Incremental and Iterative Development
+14.Which of the following is the best way a Scrum Master can increase the team productivity? : Facilitating meetings and removing impediments
+15.When multiple teams are working on the same project, how many Definitions of Done should they use? : There can be multiple definitions, as long as they are capable of creating a potentially releasable Increment
